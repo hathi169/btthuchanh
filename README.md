@@ -1,0 +1,2 @@
+# btthuchanh
+thuc hanh linux
